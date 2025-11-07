@@ -1,6 +1,7 @@
 Tarea 9
 
 Integrantes:
+
 Fernanda Araya – 202173026-5 
 
 Nikolaj Hansen – 202273045-5 
