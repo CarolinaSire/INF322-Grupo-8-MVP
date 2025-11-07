@@ -2,7 +2,9 @@ Tarea 9
 
 Integrantes:
 Fernanda Araya – 202173026-5 
+
 Nikolaj Hansen – 202273045-5 
+
 Carolina Sire – 202173105-9 
 
 En caso de querer ejecutar:
