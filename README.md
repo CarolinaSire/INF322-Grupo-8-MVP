@@ -1,30 +1,19 @@
-# Healthy eating app
+Tarea 9
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Integrantes:
+Fernanda Araya – 202173026-5 
+Nikolaj Hansen – 202273045-5 
+Carolina Sire – 202173105-9 
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/fernanditaaraya-7388s-projects/v0-healthy-eating-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/5wODKI8yULW)
+En caso de querer ejecutar:
 
-## Overview
+1. Clonar el repositorio
+2. ejecutar npm install
+3. ejecutar npm run dev
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+Si no funciona correctamente npm install utilizar npm install --legacy-peer-deps.
+Se debe iniciar sesión y confirmar la cuenta con el correo que les llegó, de ahí el link dirige al menú principal.
+Es necesario tener las credenciales correctas en el .env.local. Están adjuntas en la última página del informe.
 
-## Deployment
 
-Your project is live at:
 
-**[https://vercel.com/fernanditaaraya-7388s-projects/v0-healthy-eating-app](https://vercel.com/fernanditaaraya-7388s-projects/v0-healthy-eating-app)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/5wODKI8yULW](https://v0.app/chat/projects/5wODKI8yULW)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
